@@ -1,2 +1,2 @@
-# My-Portofolio
-My Portofolio for data analyst, Machine Learning, data science
+# Corona Virus Visualization (Basic)
+data analyst, Machine Learning, data science
